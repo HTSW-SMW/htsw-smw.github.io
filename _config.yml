@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 # locale                   : "en-US"
-title: "Kzy's homepage"
+title: "Swert2023 homepage"
 # title_separator          : "-"
 # subtitle                 : # site tagline that appears below site title in masthead
 # name                     : "Your Name"
@@ -95,7 +95,7 @@ search: true # true, false (default)
 
 # Site Author
 author:
-  name: "Kzy"
+  name: "Swert2023"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Coder"
   # location: "Somewhere"
@@ -109,7 +109,7 @@ author:
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/onlykzy"
+      url: "https://github.com/HTSW-SMW"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +141,7 @@ footer:
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/onlykzy"
+      url: "https://github.com/HTSW-SMW"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
