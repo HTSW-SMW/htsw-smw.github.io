@@ -59,7 +59,18 @@ layout: default
       {% include post_pagination.html %}
     </div>
 
+    <!-- {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %} -->
   </article>
 
   
 </div>
+<script src="https://utteranc.es/client.js"
+      repo="HTSW-SMW/HTSW-SMW.github.io"
+      issue-term="pathname"
+      label="utteranc"
+      theme="github-light"
+      crossorigin="anonymous"
+      async>
+</script>
